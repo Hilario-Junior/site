@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: rgb(74, 12, 105);
+}
+
+nav li{
+     display: inline-block;
+}
+
+nav li a{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+nav li a:hover{
+    background-color: red;
+}
+
+h2{
+    background-color: rgb(74, 12, 105);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+   line-height: 45px;
+}
+
+p{
+    background-color: rgb(199, 167, 131);
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+   padding: 20px;
+   line-height: 37px;
+   }
+    
+}

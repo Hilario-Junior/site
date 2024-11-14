@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(21, 103, 105);
+    font-size: 20px;
+h1 {
+background-color: rgb(239, 214, 214);
+color: brown;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+padding: 20px;
+}    
+h2 {
+font-family: cursive;
+font-style: italic;
+color: brown;
+}
+
+div p{
+    color: white;
+   font-size: larger;
+   padding: 20px;
+   line-height: 45px;
+
+
